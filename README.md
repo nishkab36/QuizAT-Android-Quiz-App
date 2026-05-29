@@ -17,4 +17,29 @@ This project was developed as part of my graduation degree requirements.
 
 The application was conceptualized, designed, implemented, tested, and documented independently as an academic project.
 
-No Artificial Intelligence tools were used in the development, implementation, or documentation of this project.
+No Artificial Intelligence tools were used in the development of this project.
+
+**Key Features**
+
+Admin Module
+
+Create and assign quizzes
+Manage students and examiners
+Generate semester and annual reports
+View examiner performance
+
+Examiner Module
+
+Create question papers
+Edit existing question papers
+Schedule quizzes
+Review student attempts
+Provide feedback
+Monitor performance
+
+Student Module
+
+Attempt scheduled quizzes
+View quiz history
+Review detailed analysis
+Track academic performance
