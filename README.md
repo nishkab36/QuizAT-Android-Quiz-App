@@ -21,14 +21,14 @@ No Artificial Intelligence tools were used in the development of this project.
 
 **Key Features**
 
-Admin Module
+Admin Module:
 
 Create and assign quizzes,
 Manage students and examiners,
 Generate semester and annual reports,
 View examiner performance
 
-Examiner Module
+Examiner Module:
 
 Create question papers,
 Edit existing question papers,
@@ -37,7 +37,7 @@ Review student attempts,
 Provide feedback,
 Monitor performance
 
-Student Module
+Student Module:
 
 Attempt scheduled quizzes,
 View quiz history,
@@ -46,17 +46,17 @@ Track academic performance
 
 **Technology Stack**
 
-Frontend
+Frontend->
 Kotlin,
 Android Studio,
 Material Design Components
 
-Backend
+Backend->
 Firebase Realtime Database,
 Firebase Authentication,
 Database Features
 
-Real-time synchronization
+Real-time synchronization->
 Role-based access control,
 Secure authentication,
 Cloud-hosted data management
