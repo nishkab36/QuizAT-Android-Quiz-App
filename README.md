@@ -10,3 +10,11 @@ Examiner
 Student
 
 Built using Android Studio, Kotlin, and Firebase Realtime Database, the application provides a complete end-to-end workflow for conducting and managing quizzes digitally.
+
+**Academic Project**
+
+This project was developed as part of my graduation degree requirements.
+
+The application was conceptualized, designed, implemented, tested, and documented independently as an academic project.
+
+No Artificial Intelligence tools were used in the development, implementation, or documentation of this project.
