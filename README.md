@@ -43,3 +43,20 @@ Attempt scheduled quizzes,
 View quiz history,
 Review detailed analysis,
 Track academic performance
+
+**Technology Stack**
+
+Frontend
+Kotlin,
+Android Studio,
+Material Design Components
+
+Backend
+Firebase Realtime Database,
+Firebase Authentication,
+Database Features
+
+Real-time synchronization
+Role-based access control,
+Secure authentication,
+Cloud-hosted data management
