@@ -95,46 +95,6 @@ Student
 └── Scheduled Quizzes
 ```
 
-
-## User Interface
-
-### Welcome Screen
-
-![Welcome Screen](screenshots/welcome_screen.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin_dashboard.png)
-
-### Create Quiz
-
-![Create Quiz](screenshots/create_quiz.png)
-
-### Examiner Dashboard
-
-![Examiner Dashboard](screenshots/examiner_dashboard.png)
-
-### Create Question Paper
-
-![Create Question Paper](screenshots/create_question_paper.png)
-
-### Schedule Quiz
-
-![Schedule Quiz](screenshots/schedule_quiz.png)
-
-### Student Dashboard
-
-![Student Dashboard](screenshots/student_dashboard.png)
-
-### Quiz Attempt
-
-![Quiz Attempt](screenshots/attempt_quiz.png)
-
-### Performance Report
-
-![Performance Report](screenshots/performance_report.png)
-
-
 ## Future Enhancements
 
 - Push Notifications
