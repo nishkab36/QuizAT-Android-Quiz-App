@@ -14,7 +14,6 @@ The system provides dedicated interfaces and functionalities for three user role
 
 Using Firebase as the backend, QuizAT offers real-time data synchronization, secure user authentication, role-based access control, and centralized quiz management.
 
----
 
 ## Academic Project
 
@@ -22,7 +21,6 @@ This application was developed as part of my Bachelor of Computer Applications (
 
 The system was independently conceptualized, designed, implemented, tested, and documented as an academic submission.
 
----
 
 ## Key Features
 
@@ -52,7 +50,6 @@ The system was independently conceptualized, designed, implemented, tested, and 
 - Track academic performance
 - View upcoming scheduled quizzes
 
----
 
 ## Technology Stack
 
@@ -74,7 +71,6 @@ The system was independently conceptualized, designed, implemented, tested, and 
 - Role-based access control
 - Cloud-hosted database management
 
----
 
 ## Application Architecture
 
@@ -99,7 +95,6 @@ Student
 └── Scheduled Quizzes
 ```
 
----
 
 ## User Interface
 
