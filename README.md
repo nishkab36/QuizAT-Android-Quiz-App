@@ -23,23 +23,23 @@ No Artificial Intelligence tools were used in the development of this project.
 
 Admin Module
 
-Create and assign quizzes
-Manage students and examiners
-Generate semester and annual reports
+Create and assign quizzes,
+Manage students and examiners,
+Generate semester and annual reports,
 View examiner performance
 
 Examiner Module
 
-Create question papers
-Edit existing question papers
-Schedule quizzes
-Review student attempts
-Provide feedback
+Create question papers,
+Edit existing question papers,
+Schedule quizzes,
+Review student attempts,
+Provide feedback,
 Monitor performance
 
 Student Module
 
-Attempt scheduled quizzes
-View quiz history
-Review detailed analysis
+Attempt scheduled quizzes,
+View quiz history,
+Review detailed analysis,
 Track academic performance
